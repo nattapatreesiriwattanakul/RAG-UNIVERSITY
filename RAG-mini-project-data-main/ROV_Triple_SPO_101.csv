@@ -1,0 +1,101 @@
+subject,predicate,object
+SRY,plays_for,eArena
+SRY,has_role,Top Lane
+SRY,has_nationality,Thailand
+SRY,has_status,Main
+NBank,plays_for,eArena
+NBank,has_role,Jungler
+NBank,has_nationality,Thailand
+NBank,has_status,Main
+QQ,plays_for,eArena
+QQ,has_role,Middle
+QQ,has_nationality,Thailand
+QQ,has_status,Main
+Negan,plays_for,eArena
+Negan,has_role,Bottom Lane
+Negan,has_nationality,Thailand
+Negan,has_status,Main
+Pichu,plays_for,eArena
+Pichu,has_role,Roamer
+Pichu,has_nationality,Thailand
+Pichu,has_status,Main
+Pantwopann,plays_for,eArena
+Pantwopann,has_role,Top Lane
+Pantwopann,has_nationality,Thailand
+Pantwopann,has_status,DNP
+Exolar,plays_for,eArena
+Exolar,has_role,Jungler
+Exolar,has_nationality,Thailand
+Exolar,has_status,DNP
+Youngdum,plays_for,eArena
+Youngdum,has_role,Bottom Lane
+Youngdum,has_nationality,Thailand
+Youngdum,has_status,DNP
+Littleboyz,plays_for,Buriram United Esports
+Littleboyz,has_role,Top Lane
+Littleboyz,has_nationality,Thailand
+Littleboyz,has_status,Main
+PogPog,plays_for,Buriram United Esports
+PogPog,has_role,Jungler
+PogPog,has_nationality,Thailand
+PogPog,has_status,Main
+NuNu,plays_for,Buriram United Esports
+NuNu,has_role,Middle
+NuNu,has_nationality,Thailand
+NuNu,has_status,Main
+Ligky,plays_for,Buriram United Esports
+Ligky,has_role,Bottom Lane
+Ligky,has_nationality,Thailand
+Ligky,has_status,Main
+Deawwy,plays_for,Buriram United Esports
+Deawwy,has_role,Roamer
+Deawwy,has_nationality,Thailand
+Deawwy,has_status,Main
+Kanashi,plays_for,Buriram United Esports
+Kanashi,has_role,Jungler
+Kanashi,has_nationality,Thailand
+Kanashi,has_status,Main
+AshEarth,plays_for,FULL SENSE
+AshEarth,has_role,Top Lane
+AshEarth,has_nationality,Thailand
+AshEarth,has_status,Main
+Overone,plays_for,FULL SENSE
+Overone,has_role,Jungler
+Overone,has_nationality,Thailand
+Overone,has_status,Main
+Agetsive,plays_for,FULL SENSE
+Agetsive,has_role,Middle
+Agetsive,has_nationality,Thailand
+Agetsive,has_status,Main
+Sharkz,plays_for,FULL SENSE
+Sharkz,has_role,Bottom Lane
+Sharkz,has_nationality,Thailand
+Sharkz,has_status,Main
+Noar,plays_for,FULL SENSE
+Noar,has_role,Roamer
+Noar,has_nationality,Thailand
+Noar,has_status,Main
+SARA,plays_for,FULL SENSE
+SARA,has_role,S
+SARA,has_nationality,Thailand
+SARA,has_status,DNP
+DarkFarook,plays_for,Hydra Esports
+DarkFarook,has_role,Top Lane
+DarkFarook,has_nationality,Thailand
+DarkFarook,has_status,Main
+KenKen,plays_for,Hydra Esports
+KenKen,has_role,Jungler
+KenKen,has_nationality,Thailand
+KenKen,has_status,Main
+Psocute,plays_for,Hydra Esports
+Psocute,has_role,Middle
+Psocute,has_nationality,Thailand
+Psocute,has_status,Main
+PPKAZ,plays_for,Hydra Esports
+PPKAZ,has_role,Bottom Lane
+PPKAZ,has_nationality,Thailand
+PPKAZ,has_status,King of Gamers Club / Loan
+Kamusari,plays_for,Hydra Esports
+Kamusari,has_role,Roamer
+Kamusari,has_nationality,Thailand
+Kamusari,has_status,Main
